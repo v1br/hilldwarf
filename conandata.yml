@@ -1,5 +1,5 @@
 sources:
   "0.1":
     url: "https://github.com/v1br/hilldwarf/archive/refs/heads/main.zip"
-    sha256: "b23793a7e8f749bc305bef032511746ba83f0a3ddd03a1d9ca281413b8b0d276"
+    sha256: "29765a8899508a724444aaa0fe0551a4c5b71f63f963ae5cc33737785cd233d2"
     strip_root: true
