@@ -33,5 +33,3 @@
 
 # Build folder
 build
-conanfile.py
-conandata.yml
